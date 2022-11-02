@@ -1,4 +1,5 @@
-##sources for files:
-#rocket.obj -> me
+## sources for files:
 
-#teapot.obj -> https://www.cs.utah.edu/~dejohnso/models/teapot.html
+# rocket.obj -> me
+
+# teapot.obj -> https://www.cs.utah.edu/~dejohnso/models/teapot.html
